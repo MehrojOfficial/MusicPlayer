@@ -5,7 +5,7 @@ This music player is a simple but perfect program created using the ******tkinte
 
 ## Design
 
-This program has a convenient and compact user interface. It consists of a few **Buttons**and **ProgressBars** which shows slider animation.
+This program has a convenient and compact user interface. It consists of a few **Buttons** and **ProgressBars** which shows slider animation.
 
 ## Features
 
